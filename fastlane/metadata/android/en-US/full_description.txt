@@ -1,0 +1,1 @@
+Sync any local folder data to WebDAV supported cloud providers of your choice. Also supports offline encryption before upload and scheduling of sync.  
