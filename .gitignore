@@ -1,0 +1,25 @@
+# Build output
+*.iml
+.gradle/
+.kotlin/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+.yml
+
+# Machine-specific and secret files: never commit these (L7)
+local.properties
+keystore.properties
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+google-services.json
+
+# IDE
+.idea/
+*.swp
+.DS_Store
